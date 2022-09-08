@@ -1,4 +1,4 @@
-# excecoesJava
+# Tratamento de exceções em Java
 
 in solutions roomy!
 
